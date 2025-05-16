@@ -66,3 +66,5 @@ dmypy.json
 
 # VSCode (if someone uses it too)
 .vscode/
+#all Databases
+/*.db
